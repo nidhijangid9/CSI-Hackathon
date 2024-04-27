@@ -296,7 +296,7 @@ def Weight_Gain():
     age=int(e1.get())
     weight=float(e3.get())
     height=float(e4.get())
-    bmi = weight/(height*height) 
+    bmi = weight/(height**2) 
     agewiseinp=0
     
     for lp in range (0,80,20):
@@ -528,25 +528,25 @@ def Healthy():
         test_list=np.arange(lp,lp+20)
         for i in test_list: 
             if(i == age):
-                print('age is between',str(lp),str(lp+10))
+                print('Your age is between',str(lp),str(lp+10))
                 tr=round(lp/20)  
                 agecl=round(lp/20)    
     
     print("Your body mass index is: ", bmi)
     if ( bmi < 16):
-        print("severely underweight")
+        print("Severely underweight")
         clbmi=4
     elif ( bmi >= 16 and bmi < 18.5):
-        print("underweight")
+        print("Underweight")
         clbmi=3
     elif ( bmi >= 18.5 and bmi < 25):
         print("Healthy")
         clbmi=2
     elif ( bmi >= 25 and bmi < 30):
-        print("overweight")
+        print("Overweight")
         clbmi=1
     elif ( bmi >=30):
-        print("severely overweight")
+        print("Severely overweight")
         clbmi=0    
     val1=DinnerfoodseparatedIDdata.describe()
     valTog=val1.T

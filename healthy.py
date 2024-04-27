@@ -1,9 +1,11 @@
+#healthy.py
+
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
 
-def Healthy(e1, e3, e4):
-    print(" Age: %s\n Weight%s\n Height%s\n" % (e1.get(), e3.get(), e4.get()))
+def Healthy(e1, e2, e3):
+    print(" Age: %s\n Weight%s\n Height%s\n" % (e1, e2, e3))
     
     # Read data from CSV file
     data = pd.read_csv('input.csv')
@@ -45,8 +47,8 @@ def Healthy(e1, e3, e4):
     age = int(e1.get())
     
     # Extract weight and height from input and calculate BMI
-    weight = float(e3.get())
-    height = float(e4.get())
+    weight = float(e2.get())
+    height = float(e3.get())
     bmi = weight / (height ** 2)
     
     # Determine age category based on age
