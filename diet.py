@@ -102,7 +102,7 @@ def main():
     st.write("**Breakfast:**")
     
     breakfast_table = breakfast_items[["Meal Description", "Calories"]].reset_index(drop=True)
-    breakfast_table.loc[len(breakfast_table.index)] = ['Cup of tree', 200] 
+    breakfast_table.loc[len(breakfast_table.index)] = ['Cup of tea', 200] 
     breakfast_table.index += 1  # Start index from 1
     st.table(breakfast_table)
     

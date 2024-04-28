@@ -1,6 +1,5 @@
 Activity Level,Weight Goal,Meal Type,Meal Description,Calories,Allergy
 High,Lose,Breakfast,Avocado Toast with Poached Eggs,350,Egg
-High,Lose,Breakfast,Tea,150,None
 High,Lose,Breakfast,Greek Yogurt with Berries and Granola,300,Dairy
 High,Lose,Breakfast,Spinach and Mushroom Omelette,400,Mushroom
 High,Lose,Breakfast,Whole Grain Pancakes with Maple Syrup,450,None
@@ -11,7 +10,6 @@ High,Lose,Breakfast,Green Smoothie with Protein Powder,300,None
 High,Lose,Breakfast,Egg White Veggie Scramble,300,Egg
 High,Lose,Breakfast,Banana Protein Pancakes,400,None
 High,Lose,Lunch,Grilled Chicken Salad with Quinoa,400,None
-High,Lose,Lunch,Tea,150,None
 High,Lose,Lunch,Turkey and Avocado Wrap,450,None
 High,Lose,Lunch,Salmon and Vegetable Stir-Fry,400,Fish
 High,Lose,Lunch,Black Bean and Corn Salad with Chicken,350,None
@@ -22,7 +20,6 @@ High,Lose,Lunch,Veggie and Hummus Wrap,300,None
 High,Lose,Lunch,Shrimp and Mango Salad,350,Fish
 High,Lose,Lunch,Chicken Caesar Salad,400,None
 High,Lose,Dinner,Baked Salmon with Steamed Vegetables,450,Fish
-High,Lose,Dinner,Tea,150,None
 High,Lose,Dinner,Grilled Sirloin Steak with Roasted Potatoes,500,None
 High,Lose,Dinner,Spaghetti Squash with Turkey Bolognese,400,None
 High,Lose,Dinner,Lemon Herb Chicken with Brown Rice,450,None
@@ -32,7 +29,6 @@ High,Lose,Dinner,Mushroom and Spinach Stuffed Bell Peppers,350,None
 High,Lose,Dinner,Grilled Vegetable and Goat Cheese Polenta,400,Dairy
 High,Lose,Dinner,Cauliflower Crust Pizza with Veggies,400,Dairy
 Moderate,Lose,Breakfast,Scrambled Egg Whites with Spinach and Tomatoes,300,Egg
-Moderate,Lose,Breakfast,Tea,150,None
 Moderate,Lose,Breakfast,Whole Wheat Toast with Peanut Butter,250,Wheat
 Moderate,Lose,Breakfast,Protein Smoothie with Berries and Almond Milk,350,None
 Moderate,Lose,Breakfast,Cottage Cheese with Pineapple and Walnuts,300,Dairy
@@ -43,7 +39,6 @@ Moderate,Lose,Breakfast,Blueberry Banana Protein Pancakes,400,None
 Moderate,Lose,Breakfast,Quinoa Breakfast Bowl with Almond Butter,350,Nuts 
 Moderate,Lose,Breakfast,Avocado and Tomato Breakfast Sandwich,400,None
 Moderate,Lose,Lunch,Grilled Chicken Caesar Salad,400,None
-Moderate,Lose,Lunch,Tea,150,None
 Moderate,Lose,Lunch,Turkey and Veggie Wrap,350,None
 Moderate,Lose,Lunch,Black Bean and Quinoa Salad,350,None
 Moderate,Lose,Lunch,Salmon and Asparagus Salad,400,Fish
@@ -53,7 +48,6 @@ Moderate,Lose,Lunch,Quinoa and Black Bean Stuffed Peppers,350,None
 Moderate,Lose,Lunch,Shrimp and Avocado Salad,350,Fish
 Moderate,Lose,Lunch,Greek Couscous Salad with Feta,350,Dairy
 Moderate,Lose,Dinner,Baked Cod with Roasted Vegetables,400,Fish
-Moderate,Lose,Dinner,Tea,150,None
 Moderate,Lose,Dinner,Grilled Turkey Burgers with Sweet Potato Fries,450,None
 Moderate,Lose,Dinner,Spaghetti Squash with Marinara Sauce,350,None
 Moderate,Lose,Dinner,Lemon Garlic Shrimp with Quinoa,400,Fish
@@ -63,7 +57,6 @@ Moderate,Lose,Dinner,Grilled Veggie Skewers with Tofu,350,None
 Moderate,Lose,Dinner,Cauliflower Fried Rice with Chicken,400,None
 Moderate,Lose,Dinner,Zucchini Noodles with Pesto and Cherry Tomatoes,350,None
 Low,Lose,Breakfast,Yogurt and Berry Smoothie Bowl,300,Dairy
-Low,Lose,Breakfast,Tea,150,None
 Low,Lose,Breakfast,Whole Grain Toast with Cottage Cheese,250,Dairy
 Low,Lose,Breakfast,Fruit Salad with Greek Yogurt,200,Dairy
 Low,Lose,Breakfast,Egg White Breakfast Burrito with Salsa,300,Egg
@@ -74,7 +67,6 @@ Low,Lose,Breakfast,Peanut Butter and Banana Sandwich,350,Nuts
 Low,Lose,Breakfast,Steel Cut Oats with Berries and Almonds,300,Nuts 
 Low,Lose,Breakfast,Cottage Cheese Pancakes with Fruit,350,Dairy
 Low,Lose,Lunch,Grilled Vegetable Salad with Balsamic Vinaigrette,300,None
-Low,Lose,Lunch,Turkey and Veggie Skewers,350,None
 Low,Lose,Lunch,Quinoa Salad with Cucumber and Tomato,300,None
 Low,Lose,Lunch,Chickpea Salad with Lemon Tahini Dressing,350,None
 Low,Lose,Lunch,Asian Tofu Salad with Ginger Soy Dressing,300,None
@@ -92,7 +84,6 @@ Low,Lose,Dinner,Tofu and Vegetable Curry with Quinoa,350,None
 Low,Lose,Dinner,Mushroom and Spinach Stuffed Chicken Breast,400,None
 Low,Lose,Dinner,Grilled Portobello Mushroom Burgers,350,None
 High,Gain,Breakfast,Omelette with Bacon Cheese and Avocado,500,Dairy
-High,Gain,Breakfast,Tea,150,None
 High,Gain,Breakfast,Banana Nut Protein Shake,400,Nuts 
 High,Gain,Breakfast,Protein Pancakes with Nutella and Banana,600,None
 High,Gain,Breakfast,Scrambled Eggs with Sausage and Hash Browns,550,Egg
@@ -122,7 +113,6 @@ High,Gain,Dinner,Shrimp Scampi with Linguine and Garlic Bread,700,None
 High,Gain,Dinner,Pork Chops with Apple Sauce and Roasted Potatoes,750,None
 High,Gain,Dinner,Lamb Tagine with Couscous and Grilled Vegetables,800,None
 Moderate,Gain,Breakfast,Banana Chocolate Chip Pancakes,450,None
-Moderate,Gain,Breakfast,Tea,150,None
 Moderate,Gain,Breakfast,Breakfast Burrito with Chorizo and Potatoes,500,None
 Moderate,Gain,Breakfast,Blueberry Cream Cheese French Toast Casserole,550,Dairy
 Moderate,Gain,Breakfast,Protein Waffles with Strawberries and Whipped Cream,500,Dairy
@@ -152,7 +142,6 @@ Moderate,Gain,Dinner,Beef and Broccoli Stir-Fry with Rice,700,None
 Moderate,Gain,Dinner,Teriyaki Chicken with Pineapple Fried Rice,700,None
 Moderate,Gain,Dinner,Lamb Chops with Mint Sauce and Roasted Potatoes,800,None
 Low,Gain,Breakfast,Granola with Milk and Fresh Fruit,400,Milk 
-Low,Gain,Breakfast,Tea,150,None
 Low,Gain,Breakfast,Bagel with Cream Cheese and Jam,350,Dairy
 Low,Gain,Breakfast,Chocolate Chip Muffin with Butter,450,Dairy
 Low,Gain,Breakfast,Toast with Jam and Nutella,300,None
@@ -182,7 +171,6 @@ Low,Gain,Dinner,Beef and Broccoli with Rice,650,None
 Low,Gain,Dinner,Vegetable Stir-Fry with Noodles,600,None
 Low,Gain,Dinner,Cheeseburger with Fries,700,Dairy
 High,Maintain,Breakfast,Scrambled Eggs with Toast and Fruit,400,Egg
-High,Maintain,Breakfast,Tea,150,None
 High,Maintain,Breakfast,Whole Wheat Pancakes with Maple Syrup,450,Wheat
 High,Maintain,Breakfast,Smoothie Bowl with Greek Yogurt and Granola,400,Dairy
 High,Maintain,Breakfast,Fruit and Nut Oatmeal with Milk,400,Nuts 
